@@ -10,16 +10,11 @@
 
 📫   Email me at victor.eduardo.sntos@gmail.com
 
-😎   Know more about me at <a href="https://www.linkedin.com/in/victoresantos/">here</a>.
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/victorEsantos/victorEsantos/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 #### 💻 &nbsp;Programming Languages / Frameworks
-_(in order of understanding)_
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg">
@@ -35,7 +30,6 @@ _(in order of understanding)_
 <br>
 
 #### 💾 &nbsp;DataBases
-_(in order of understanding)_
 <div style="display: inline_block"><br>
   <img align="center" alt="oracle" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/oracle/oracle-original.svg">
   <img align="center" alt="postgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
@@ -43,16 +37,6 @@ _(in order of understanding)_
   <img align="center" alt="mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg">
 
 </div>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/victorEsantos">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorEsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorEsantos&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
