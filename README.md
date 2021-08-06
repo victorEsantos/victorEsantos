@@ -39,5 +39,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/victoresantos"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/victoresantos"><img src="https://img.shields.io/badge/-Victor%20Eduardo%20dos%20Santos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
