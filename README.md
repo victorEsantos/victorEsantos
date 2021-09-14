@@ -1,8 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Víctor</h2>
+<h2>Hey there! I'm Víctor</h2>
 
-<!-- ##Hey there! I'm Víctor -->
-
-###About Me
+### About Me
 
 💼   BackEnd Developer at TOTVS
 
@@ -10,9 +8,12 @@
 
 📫   Email me at victor.eduardo.sntos@gmail.com
 
+<br>
+<br>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/victorEsantos/victorEsantos/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+<h3>🛠 &nbsp;Tech Stack</h3>
 
 #### 💻 &nbsp;Programming Languages / Frameworks
 
@@ -26,6 +27,8 @@
   <img align="center" alt="cypress" height="50" width="50" src="https://github.com/cypress-io/cypress-icons/blob/master/src/cypress.iconset/icon_128x128.png?raw=true">
 
 </div>
+
+<br>
 <br>
 
 #### 💾 &nbsp;DataBases
@@ -36,6 +39,8 @@
   <img align="center" alt="mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg">
 
 </div>
+
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
