@@ -10,7 +10,9 @@
 
 📫   Email me at victor.eduardo.sntos@gmail.com
 
-📚   Interested in SaaS MicroServices 
+📚   Interested in SaaS MicroServices
+
+💬 LinkedIn www.linkedin.com/in/victorEsantos
 
 <br>
 
