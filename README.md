@@ -20,8 +20,8 @@
 
 💻 Techs  | ⚒️ Framework/Tool  |  💾Familiar DataBases
 :------------:|:---------------:|:-----------------------:
-⭐Java⭐     |  Spring-Boot    |   ⭐PostgreSQL⭐
-JavaScript    | ⭐JQuery⭐     |   mongo
-NodeJs        |  Angular        |  ⭐ SQLServer⭐
-⭐Docker⭐    | Cypress         |   Oracle
+⭐Java⭐     |   ⭐Spring⭐   |   ⭐PostgreSQL⭐
+JavaScript    |    JQuery       |   mongo
+NodeJs        |    Angular      |  ⭐SQLServer⭐
+⭐Docker⭐   |    Cypress      |   Oracle
 
