@@ -21,7 +21,7 @@
 💻 Techs  | ⚒️ Framework/Tool  |  💾Familiar DataBases
 :------------:|:---------------:|:-----------------------:
 ⭐Java⭐     |   ⭐Spring⭐   |   ⭐PostgreSQL⭐
-JavaScript    |    JQuery       |   mongo
+JavaScript    |    JQuery       |   MongoDB
 NodeJs        |    Angular      |  ⭐SQLServer⭐
 ⭐Docker⭐   |    Cypress      |   Oracle
 
