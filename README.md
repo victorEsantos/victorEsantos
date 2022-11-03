@@ -1,7 +1,5 @@
 <h2>Hey there! I'm Víctor</h2>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/victorEsantos/victorEsantos/master/assets/Night-Coding.gif" align="right"/>
-
 ### About Me
 
 💼   BackEnd Developer at TOTVS
