@@ -2,15 +2,15 @@
 
 ### About Me
 
-💼   BackEnd Developer at TOTVS
+*   BackEnd Developer at TOTVS
 
-🌱   I’m currently learning Spring Boot & Angular
+*   Main skills: Spring Async RabbitMQ in microservices
 
-📫   Email me at victor.eduardo.sntos@gmail.com
+*   Email me at victor.eduardo.sntos@gmail.com
 
-📚   Interested in SaaS MicroServices
+*   Interested in SaaS MicroServices
 
-💬 LinkedIn www.linkedin.com/in/victorEsantos
+* LinkedIn www.linkedin.com/in/victorEsantos
 
 <br>
 
