@@ -2,7 +2,7 @@
 
 ### About Me
 
-*   BackEnd Developer at TOTVS
+*   BackEnd Developer at Mercado Libre
 
 *   Main skills: Spring Async RabbitMQ in microservices
 
